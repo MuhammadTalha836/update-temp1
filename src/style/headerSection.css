@@ -1,0 +1,25 @@
+.header__section{
+    width: 100%;
+    max-width: 900px;
+    margin: 90px auto;
+    text-align: center;
+    }
+    .top__line{
+      width: 100%;
+      max-width: 60px;
+      margin: 0 auto;
+    }
+    .header__section h2{
+      padding-bottom: 30px;
+      font-weight: 200;
+      padding-top: 100px;
+      color: #212135;
+    }
+    .header__section p{
+      padding-top: 30px;
+      font-size: 17.5px;
+    }
+    
+    .header__section h2{
+      
+    }

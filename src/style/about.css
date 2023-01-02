@@ -1,0 +1,37 @@
+.about__page{
+  
+}
+.about__page__grid{
+  display: flex;
+}
+.about__pic{
+ width: 100%;
+ max-width: 700px;
+ height: auto;
+}
+.about__text{
+  padding-left: 30px;
+  width: 100%;
+  max-width: 700px;
+  font-size: 15px;
+  color: gray;
+}
+.about__text h1{
+  color: #212135 !important;
+}
+.about__text p{
+  color: gray;
+}
+.about__text p span{
+  font-weight: bold;
+  color: gray;
+}
+@media only screen and (max-width: 900px) {
+ .about__page__grid{
+  flex-direction: column;
+ }
+ .about__text{
+  padding-top: 20px;
+  padding-left: 0px;
+ }
+}
