@@ -13,7 +13,7 @@ export default function ServiceTop() {
                 <div className="service-content">
                     <div className="card ">
                         <div className='card-content'>
-
+   
                             <h1>Heading</h1>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste temporibus beatae voluptatem consequuntur, ea, minus aliquam nobis cupiditate neque est quas error labore hic illum reiciendis iure quod sunt magnam?</p>
                         </div>
