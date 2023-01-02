@@ -8,7 +8,7 @@ export default function ServiceTop() {
         <div className='container serviceTop'>
             <div className="service-images" data-aos="fade-left" data-aos-duration="800">
                 <img src={img1} alt="" className='img' />
-                <img src={img3} alt="" className='img' />
+                <img src={img2} alt="" className='img' />
                 <img src={img3} alt="" className='img' />
                 <div className="service-content">
                     <div className="card ">
