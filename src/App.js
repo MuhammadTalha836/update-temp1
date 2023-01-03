@@ -1,4 +1,4 @@
-import React,{ useEffect, useState }  from 'react';
+import React, { useEffect, useState } from 'react';
 import './App.css';
 import AOS from 'aos';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -15,22 +15,22 @@ function App() {
 
   useEffect(() => {
     AOS.init({
-      duration : 2000
-    }); 
+      duration: 2000
+    });
   },);
 
   return (
     <div className="">
-    <div className='app'>
-    <NavBar />
-      <HeaderSection/>
-      <AboutPage/>
-      <ServiceTop/>
-      <Services/>
-      <Feature/>
-    </div>
-      <WhatsApp/>
-      <AllRight/>
+      <div className='app'>
+        <NavBar />
+        <HeaderSection />
+        <AboutPage />
+        <ServiceTop />
+        <Services />
+        <Feature />
+      </div>
+      <WhatsApp />
+      <AllRight />
     </div>
   );
 }

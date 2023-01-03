@@ -57,6 +57,14 @@
                 align-items: center;
 }
 
+.serviceTop_line{
+    height: 2.5px;
+    max-width: 200px;
+    margin: 6px auto;
+    background-color: yellow;
+    margin-top: 15px;
+    margin-bottom: 20px;
+  }
 
 @media screen and (max-width:1150px){
     .serviceTop{
