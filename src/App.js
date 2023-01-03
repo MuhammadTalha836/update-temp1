@@ -25,8 +25,8 @@ function App() {
     <NavBar />
       <HeaderSection/>
       <AboutPage/>
-      <Services/>
       <ServiceTop/>
+      <Services/>
       <Feature/>
     </div>
       <WhatsApp/>

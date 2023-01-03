@@ -1,7 +1,26 @@
 .serviceTop {
    min-height: 100vh;
-
+   padding-top: 7vh;
 }
+.main__service__heading{
+    padding-bottom: 8vh;
+}
+.serviceTop h2{
+    font-size: 35px;
+    font-weight: 500;
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 1px;
+   }
+
+   .serviceMain__top__line{
+    height: 3.5px;
+    max-width: 190px;
+    margin: 6px auto;
+    background-color: yellow;
+  }
+
 
 .serviceTop>.service-images {
     display: flex;

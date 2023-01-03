@@ -15,8 +15,7 @@ function WhatsApp() {
   <BsWhatsapp color='white' size={28} className="whatsApp__icon" />
          </a>
 
-
-         
+    
 </div>
 
 <div className='img' data-aos="fade-up" data-aos-duration="800">

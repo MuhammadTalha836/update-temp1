@@ -3,7 +3,7 @@
     font-weight: 500;
     color: black;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 100px;
     padding-bottom: 5px;
    }
    .service__top__line{
@@ -140,6 +140,10 @@
        top: 10%;
        left: 50%;
        transform: translate(-50%, -50%);
+     }
+     .service__back h2{
+      
+      padding-top: 200px;
      }
    }
    
