@@ -4,7 +4,6 @@ import img1 from '../assets/Service__picture/1.jpg'
 import img2 from '../assets/Service__picture/2.jpg'
 import img3 from '../assets/Service__picture/3.jpg'
 import { BsWhatsapp } from "react-icons/bs";
-import logo from '../assets/img/logo.png'
 export default function ServiceTop() {
     return (
         <>
