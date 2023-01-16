@@ -45,7 +45,7 @@
 }
 
 .service-content> .card{
-    height: 50vh;
+    min-height: 50vh;
     background: linear-gradient(rgba(255, 255, 255, 0.884),rgba(252, 252, 252, 0.979));
     box-shadow: 0 -5px 5px -5px rgb(81, 81, 81), 
                 0 5px 5px -5px rgb(81, 81, 81);
@@ -98,7 +98,7 @@
     }
 
     .service-content> .card{
-        height: 100vh;
+        min-height: 100vh;
         background: linear-gradient(rgba(255, 255, 255, 0.884),rgba(252, 252, 252, 0.979));
         box-shadow: 0 -5px 5px -5px rgb(81, 81, 81), 
                     0 5px 5px -5px rgb(81, 81, 81);
